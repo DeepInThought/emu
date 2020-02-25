@@ -15,7 +15,7 @@ categories = ["science", "simulation", "hardware-support", "development-tools::f
 
 [dependencies]
 quote = "0.6.11"
-syn = { version = "0.15.29", features = ["full", "visit", "extra-traits"] }
+syn = { version = "1.0.16", features = ["full", "visit", "extra-traits"] }
 
 [lib]
 proc-macro = true
