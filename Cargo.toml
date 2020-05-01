@@ -14,7 +14,7 @@ keywords = ["gpu", "opencl", "science", "math", "language"]
 categories = ["science", "simulation", "hardware-support", "development-tools::ffi", "external-ffi-bindings"]
 
 [dependencies]
-quote = "0.6.11"
+quote = "1.0.4"
 syn = { version = "0.15.29", features = ["full", "visit", "extra-traits"] }
 
 [lib]
